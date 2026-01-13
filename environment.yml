@@ -1,0 +1,42 @@
+name: my_paper_env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.4  
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - matplotlib
+  - seaborn
+  - simpleitk        
+  - h5py            
+  - statsmodels
+  - pyyaml
+  - tqdm
+  - jupyterlab       
+
+  # --- Pip-Specific Packages ---
+  - pip
+  - pip:
+    - monai
+    - torchio
+    - torchmetrics
+    - kornia
+    - einops        
+    - lpips          
+    - open-clip-torch
+    - tensorboard
+    - nibabel       
+    - medclip       
+    - gdown         
+    - yacs          
+    - dlutils        
