@@ -1,4 +1,4 @@
-# Unified Multi-Site Multi-Sequence Brain MRI Harmonization (MMH) Enriched by Biomedical Semantic Style
+# Unified Multi-Site Multi-Sequence Brain MRI Harmonization Enriched by Biomedical Semantic Style
 This is the official code repository for the paper "_Unified Multi-Site Multi-Sequence Brain MRI Harmonization Enriched by Biomedical Semantic Style_" (under review).
 
 The preliminary work "[_Unpaired Multi-Site Brain MRI Harmonization with Image Style-Guided Latent Diffusion_](https://link.springer.com/chapter/10.1007/978-3-032-04947-6_65)" has been published in MICCAI 2025.
