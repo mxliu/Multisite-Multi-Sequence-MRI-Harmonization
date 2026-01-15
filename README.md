@@ -14,7 +14,7 @@ Aggregating multi-site brain MRI data can enhance deep learning model training, 
 If you use this code in your research, please cite this paper:
 
 ```
-@misc{gao2025learning,
+@article{wu2026unified,
   author = {Wu, Mengqi and Sun, Yongheng and Wang, Qianqian and Yap, Pew-Thian and Liu, Mingxia},  
   title = {Unified Multi-Site Multi-Sequence Brain MRI Harmonization Enriched by Biomedical Semantic Style},  
   archivePrefix={arXiv:2601.08193},
