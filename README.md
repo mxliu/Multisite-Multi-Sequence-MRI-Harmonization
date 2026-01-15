@@ -1,5 +1,5 @@
 # Multi-Site Multi-Sequence MRI Harmonization
-This is the official code repository for the paper "_Unified Multi-Site Multi-Sequence Brain MRI Harmonization Enriched by Biomedical Semantic Style_" (under review).
+This is the official code repository for the paper entitled "Unified Multi-Site Multi-Sequence Brain MRI Harmonization Enriched by Biomedical Semantic Style" (under review).
 
 ## Unified Multi-Site Multi-Sequence Brain MRI Harmonization Enriched by Biomedical Semantic Style
 Mengqi Wu, Yongheng Sun, Qianqian Wang, Pew-Thian Yap, Mingxia Liu
